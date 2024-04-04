@@ -25,3 +25,36 @@ width: 60%;
     padding: 20px 0;
     color:white;
 }
+.o-clube-imagem{
+    width: 40%;
+}
+.o-clube{
+    background-image: linear-gradient(#CCC2C0,#20221F);
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+.o-clube-titulo{
+    padding-top: 24px 0; 
+}
+.o-clube-texto-um{
+    padding: 24px 0;
+    text-align: justify;
+}
+.o-clube-texto-dois{
+    padding: 24px 0;
+    text-align: justify;
+}
+.o-clube-texto-três{
+    padding: 24px 0;
+    text-align: justify;
+}
+.o-clube-texto-quatro{
+    padding: 24px 0;
+    text-align: justify;
+}
+.o-clube-div-conteudo{
+    width: 35%;
+}
