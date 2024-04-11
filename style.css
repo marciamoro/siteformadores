@@ -2,6 +2,9 @@
     margin: 0;
     padding: 0;
 }
+body{
+        font-family: "Poppins", sans-serif;
+      }
 .cabeçalho {
     background-color: #C67C7C;
     color: white;
@@ -11,7 +14,7 @@
     padding: 24px 0;
 }
 .cabeçalho-imagem{
-width: 60%;
+width: 40%;
 }
 .cabeçalho-lista-item{
     display: inline-block;
@@ -57,4 +60,14 @@ width: 60%;
 }
 .o-clube-div-conteudo{
     width: 35%;
+}
+.sessao-de-fotos-imagem-um{
+    width: 120px;
+}
+.sessao-de-fotos-icones{
+    width: 24px;
+}
+.sessao-de-fotos-div{
+    text-align: center;
+    padding: 16px 0;
 }
