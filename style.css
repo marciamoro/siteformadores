@@ -101,12 +101,16 @@ width: 40%;
 .rodape{
     background-color: royalblue;
     text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
 }
 
-.rodape-imagem{
+.rodape-logo{
     height: 60px;
     padding: 12px 0;
-   
+    width: 10%
 }
 .rodape-whatsApp{
     width: 4%;
