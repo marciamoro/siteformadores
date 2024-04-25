@@ -99,7 +99,7 @@ width: 40%;
 }
 
 .rodape{
-    background-color: black;
+    background-color: royalblue;
     text-align: center;
 }
 
@@ -107,4 +107,7 @@ width: 40%;
     height: 60px;
     padding: 12px 0;
    
+}
+.rodape-whatsApp{
+    width: 4%;
 }
